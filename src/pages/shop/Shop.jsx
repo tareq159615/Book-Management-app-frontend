@@ -78,9 +78,6 @@ export default function Shop() {
       <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-4">
         <div>
           <h1 className="text-3xl font-bold">Shop Books</h1>
-          <p className="text-sm text-gray-500 mt-1">
-            Search, filter, sort এবং অর্ডার করার জন্য Cart ব্যবহার করো
-          </p>
         </div>
 
         {/* Controls */}
